@@ -1,9 +1,9 @@
 # Steam GameTime
 **A personal gameplay time manager for Steam.**
-<img align='right' height='100' src='https://github.com/prasunroy/steam-gametime/blob/master/assets/logo.png' />
+<img align='right' height='100' src='https://github.com/prasunroy/steam-gametime/blob/main/assets/logo.png' />
 
-![badge](https://github.com/prasunroy/steam-gametime/blob/master/assets/badge_1.svg)
-![badge](https://github.com/prasunroy/steam-gametime/blob/master/assets/badge_2.svg)
+![badge](https://github.com/prasunroy/steam-gametime/blob/main/assets/badge_1.svg)
+![badge](https://github.com/prasunroy/steam-gametime/blob/main/assets/badge_2.svg)
 
 ## License
 MIT License
